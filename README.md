@@ -21,4 +21,4 @@ thank you for visiting my page and happy coding! :rocket:
 
 <h1 align="left" id="macropower-title">my stats</h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arslanbekzhaparov&theme=ayu-light&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arslanbekzhaparov&theme=ayu-light)](https://git.io/streak-stats)
