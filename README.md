@@ -1,2 +1,1 @@
-# intro
-about me repo
+![alt text](http://url/to/img.png)
