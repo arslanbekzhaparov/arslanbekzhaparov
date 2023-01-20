@@ -1,7 +1,3 @@
-<p align="center">
-   <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true" alt="background"/>
-</p>
-
 <h1 align="left" id="macropower-title">O.O</h1>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arslanbekzhaparov&color=blue)
@@ -18,6 +14,10 @@ if you have any questions or feedback, please don't hesitate to reach out. I'm a
 thank you for visiting my page and happy coding! :rocket:
 
 :octocat: arslan
+
+<p align="center">
+   <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true" alt="background" scale = "0.5"/>
+</p>
 
 <h1 align="left" id="macropower-title">my stats</h1>
 
