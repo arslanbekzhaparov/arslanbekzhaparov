@@ -3,4 +3,7 @@
   alt="Alt text"
   title="Optional title"
   align="center"
+  display="flex"
+  align-items="center"
+  justify-content="center"
   style="display: flex; align-items: center; margin: 0 auto; max-width: 100%; max-height: 100%"/>
