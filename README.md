@@ -1,11 +1,5 @@
-<img
-  src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true"
-  alt="Alt text"
-  title="Optional title"
-  align="center"
-  display="flex"
-  align-items="center"
-  justify-content="center"
-  style="display: flex; align-items: center; margin: 0 auto; max-width: 100%; max-height: 100%"/>
+<p align="center">
+   <img src="[https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true]" alt="[YOUR_ALT]"/>
+</p>
 
 ![image](https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true)
