@@ -16,7 +16,7 @@ thank you for visiting my page and happy coding! :rocket:
 :octocat: arslan
 
 <p align="center">
-   <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true" alt="background" scale = "0.5"/>
+   <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true" alt="background" scale = "0.2"/>
 </p>
 
 <h1 align="left" id="macropower-title">my stats</h1>
