@@ -9,7 +9,18 @@
    <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/ezgif-3-f10a993a5bf1.gif?raw=true" alt="background" width="200px" height="200px"/>
 </p>
  -->
-hello there! my name is arslan, and i am excited to share my coding projects with you. :smile:
+ 
+<!--Intro start-->
+- 🔭 I’m currently working in arcurve
+
+- ☁️ I’m currently learning **aws**
+
+- 💬 Ask me about **anything**
+
+- 📫 Feel free to reach out **arslanbekzhaparov@gmail.com**
+<!--Intro end-->
+
+<!-- hello there! my name is arslan, and i am excited to share my coding projects with you. :smile:
 
 on this page, you'll find a variety of projects that i've worked on, from simple scripts to more complex applications. :computer: feel free to explore and use my code as a reference for your own projects. :book:
 
@@ -17,7 +28,7 @@ if you have any questions or feedback, please don't hesitate to reach out. I'm a
 
 thank you for visiting my page and happy coding! :rocket:
 
-:octocat: arslan
+:octocat: arslan -->
 
 <!-- <p align="center">
    <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true" alt="background" size = "400"/>
