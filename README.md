@@ -11,11 +11,12 @@
 </p>
  -->
  <!--h1 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">Hi 👋, I'm Arslan</h2></summary>
   </ul>
-</div>
+</div> -->
+<summary><h2 style="display: inline-block">Hi 👋, I'm Arslan</h2></summary>
 <!--Intro start-->
 - 🔭 I’m currently working @ Arcurve
 
