@@ -17,11 +17,11 @@
   </ul>
 </div>
 <!--Intro start-->
-- 🔭 I’m currently working in arcurve
+- 🔭 I’m currently working @ Arcurve
 
-- ☁️ I’m currently learning **aws**
+- ☁️ I’m currently learning **AWS**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything**
 
 - 📫 Feel free to reach out **arslanbekzhaparov@gmail.com**
 <!--Intro end-->
