@@ -12,8 +12,8 @@
  -->
  <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Arslan</h1></summary>
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Hi 👋, I'm Arslan</h2></summary>
   </ul>
 </div>
 <!--Intro start-->
