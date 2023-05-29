@@ -5,18 +5,16 @@
 [![Badge](https://img.shields.io/badge/O.O-arslanbekzhaparov-brightgreen)](https://www.arslanbekzhaparov.com/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arslanbek-zhaparov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:arslanbekzhaparov@gmail.com)
-
 <!-- <p align="center">
    <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/ezgif-3-f10a993a5bf1.gif?raw=true" alt="background" width="200px" height="200px"/>
 </p>
  -->
  <!--h1 without bottom border-->
-<!-- <div id="user-content-toc">
+<div id="user-content-toc">
   <ul align="left">
     <summary><h2 style="display: inline-block">Hi 👋, I'm Arslan</h2></summary>
   </ul>
-</div> -->
-<summary><h2 style="display: inline-block">Hi 👋, I'm Arslan</h2></summary>
+</div>
 <!--Intro start-->
 - 🔭 I’m currently working @ Arcurve
 
