@@ -1,4 +1,5 @@
-<h1 align="left" id="macropower-title">O.O</h1>
+<!-- <h1 align="left" id="macropower-title">O.O</h1> -->
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=arslanbekzhaparov&color=blue)
 [![Badge](https://img.shields.io/badge/O.O-arslanbekzhaparov-brightgreen)](https://www.arslanbekzhaparov.com/)
@@ -9,7 +10,12 @@
    <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/ezgif-3-f10a993a5bf1.gif?raw=true" alt="background" width="200px" height="200px"/>
 </p>
  -->
- 
+ <!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arslan</h1></summary>
+  </ul>
+</div>
 <!--Intro start-->
 - 🔭 I’m currently working in arcurve
 
