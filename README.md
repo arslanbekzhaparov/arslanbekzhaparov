@@ -23,7 +23,7 @@ thank you for visiting my page and happy coding! :rocket:
    <img src="https://github.com/arslanbekzhaparov/arslanbekzhaparov/blob/main/backgroundforreadme.gif?raw=true" alt="background" size = "400"/>
 </p> -->
 
-<h1 align="left" id="macropower-title">my stats</h1>
+<!-- <h1 align="left" id="macropower-title">my stats</h1> -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arslanbekzhaparov&theme=ayu-light)](https://git.io/streak-stats)
 ![Arslans's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslanbekzhaparov&show_icons=true&theme=ayu-light) -->
