@@ -17,7 +17,7 @@
 </div>
 <!--Intro start-->
 
-- 🔭 I’m currently working @ Arcurve
+- 🔭 I’m currently finishing my 4th year of Bachelor of Engineering
 
 - ☁️ I’m currently learning **AWS**
 
