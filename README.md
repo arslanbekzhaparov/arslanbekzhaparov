@@ -19,7 +19,7 @@
 
 - Checkout my website https://www.arslanbekzhaparov.com/
 
-- 🔭 I’m currently finishing my 4th year of Bachelor of Engineering
+- 🔭 I’m a UBC alumni
 
 - ☁️ I’m currently learning **AWS**
 
