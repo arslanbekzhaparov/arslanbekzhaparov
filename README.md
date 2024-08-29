@@ -21,7 +21,7 @@
 
 - 🔭 I’m a UBC alumni
 
-- ☁️ I’m currently learning **AWS**
+- ☁️ I’m currently working on WebApps
 
 - 💬 Ask me about **Anything**
 
